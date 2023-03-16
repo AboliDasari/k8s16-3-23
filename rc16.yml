@@ -15,6 +15,6 @@ spec:
      spec:
         containers:
         - name:  myvertexapp-container
-          image: abolidasari/mywarimage150323:1
+          image: abolidasari/mywarimage:1
           ports:
           - containerPort: 8080 
